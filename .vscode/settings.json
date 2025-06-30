@@ -1,0 +1,26 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/randolife/ros2_ws/install/py_stopper/lib/python3.8/site-packages",
+        "/home/randolife/ros2_ws/install/my_test_package_py/lib/python3.8/site-packages",
+        "/home/randolife/ros2_ws/install/my_py_service/lib/python3.8/site-packages",
+        "/home/randolife/ros2_ws/install/my_py_pubsub/lib/python3.8/site-packages",
+        "/home/randolife/ros2_ws/install/my_cpp_service/lib/python3.8/site-packages",
+        "/home/randolife/ros2_ws/install/custom_interfaces/lib/python3.8/site-packages",
+        "/opt/ros/foxy/lib/python3.8/site-packages",
+        "/home/randolife/research_ws/devel/lib/python3/dist-packages",
+        "/home/randolife/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/randolife/ros2_ws/install/py_stopper/lib/python3.8/site-packages",
+        "/home/randolife/ros2_ws/install/my_test_package_py/lib/python3.8/site-packages",
+        "/home/randolife/ros2_ws/install/my_py_service/lib/python3.8/site-packages",
+        "/home/randolife/ros2_ws/install/my_py_pubsub/lib/python3.8/site-packages",
+        "/home/randolife/ros2_ws/install/my_cpp_service/lib/python3.8/site-packages",
+        "/home/randolife/ros2_ws/install/custom_interfaces/lib/python3.8/site-packages",
+        "/opt/ros/foxy/lib/python3.8/site-packages",
+        "/home/randolife/research_ws/devel/lib/python3/dist-packages",
+        "/home/randolife/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}

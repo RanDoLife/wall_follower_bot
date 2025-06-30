@@ -1,0 +1,52 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/randolife/ros2_ws/install/my_py_service/include/**",
+        "/home/randolife/ros2_ws/install/my_cpp_service/include/**",
+        "/home/randolife/ros2_ws/install/custom_interfaces/include/**",
+        "/home/randolife/research_ws/devel/include/**",
+        "/home/randolife/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/randolife/catkin_ws/src/camera_elp/include/**",
+        "/home/randolife/catkin_ws/src/chat_pkg/include/**",
+        "/home/randolife/research_ws/src/collobaorative_assembly/include/**",
+        "/home/randolife/research_ws/src/conveyor/include/**",
+        "/home/randolife/catkin_ws/src/custom_messages/include/**",
+        "/home/randolife/catkin_ws/src/custom_services/include/**",
+        "/home/randolife/catkin_ws/src/first_pkg/include/**",
+        "/home/randolife/catkin_ws/src/follow_bot/include/**",
+        "/home/randolife/research_ws/src/conveyor_demo/src/gazebo-conveyor/include/**",
+        "/home/randolife/research_ws/src/gazebo_ros_link_attacher/include/**",
+        "/home/randolife/catkin_ws/src/homework1/include/**",
+        "/home/randolife/catkin_ws/src/image_converter/include/**",
+        "/home/randolife/catkin_ws/src/laser_scan/include/**",
+        "/home/randolife/catkin_ws/src/mapping/include/**",
+        "/home/randolife/catkin_ws/src/my_actionlib/include/**",
+        "/home/randolife/catkin_ws/src/my_turtle/include/**",
+        "/home/randolife/research_ws/src/pylon-ros-camera/pylon_camera/include/**",
+        "/home/randolife/research_ws/src/roboticsgroup_gazebo_plugins/include/**",
+        "/home/randolife/research_ws/src/roboticsgroup_upatras_gazebo_plugins/include/**",
+        "/home/randolife/catkin_ws/src/ros-cpp-tutorials/include/**",
+        "/home/randolife/research_ws/src/rosserial/rosserial_server/include/**",
+        "/home/randolife/research_ws/src/rosserial/rosserial_test/include/**",
+        "/home/randolife/catkin_ws/src/send_goals/include/**",
+        "/home/randolife/catkin_ws/src/simple_counter/include/**",
+        "/home/randolife/catkin_ws/src/tf_demo/include/**",
+        "/home/randolife/research_ws/src/universal_robot/ur_kinematics/include/**",
+        "/home/randolife/catkin_ws/src/wander_bot/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
